@@ -1,0 +1,15 @@
+node_modules
+.next
+dist
+
+.env
+.env.local
+
+*.log
+.DS_Store
+
+apps/backend/node_modules
+web/node_modules
+mobile/node_modules
+
+mobile-old
